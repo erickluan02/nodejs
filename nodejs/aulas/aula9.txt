@@ -1,0 +1,24 @@
+Atividade de avaliação individual
+(entrega pelo GitHub)
+
+1) Criar um repositório GitHub e hospedar todos os projetos feitos do scratch ( 7 projetos) 
+
+2) Criar no scratch um APP para calcular o Valor da hora de serviço de um técnico de informática
+
+Remuneração mensal pretendida: 5000
+Reserva: 30% da remuneração (1500)
+Custo operacional: 500
+Investimento: 20% da remuneração (1000)
+
+soma: 8000
+
+Determinar horas/mês (160 horas)
+
+hora técnica= 8000 / 160
+hora técnica= 50,00
+
+
+//variaveis
+remuneracao, custo, horasMes, horaTecnica
+
+//Entrada 

@@ -1,0 +1,17 @@
+Exercicio 3 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+PDV (ponto de vendas) 
+Desenvolver no scratch e no node um App para pagamento (PDV) de um comércio
+Modelo:
+Total: 300,00 (variável)
+Desconto: 10% (variável)
+total com desconto: 270,00 (calculado automaticamente)
+Valor pago em dinheiro: 300 (variável)
+Troco: 30,00 (calculado automaticamente)
+
+dica: .replace("","") //subistitui um caractere por outro caractere
+
+Exemplos: 
+.replace("y","y")
+.replace("yes","y")
+.replace("no","n")
+.replace(",",".") //substituir a virgula pelo ponto 
